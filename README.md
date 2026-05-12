@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Gisela 👋
 
-<!--
-**gigrdo/gigrdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a healthcare professional transitioning into software development, currently building projects with JavaScript, Node.js, Express, and MongoDB.
 
-Here are some ideas to get you started:
+I enjoy creating thoughtful digital experiences with a human-centered mindset inspired by my background in healthcare.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Backend development
+- Full-stack web applications
+- REST APIs
+- Product thinking
+
+## Projects
+
+- 🌿 Wisteria
+- 💻 Portfolio Website
+
+## Connect
+
+- Portfolio: https://giselaguajardoportfolio.netlify.app/
+- LinkedIn: https://linkedin.com/in/gigrdo
