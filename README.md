@@ -13,6 +13,7 @@ I enjoy creating thoughtful digital experiences with a human-centered mindset in
 
 ## Projects
 
+- 🌈 Latin American Spring Festival website
 - 🌿 Wisteria
 - 💻 Portfolio Website
 
