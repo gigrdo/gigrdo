@@ -1,8 +1,8 @@
 # Hi, I'm Gisela 👋
 
-I'm a healthcare professional transitioning into software development, currently building projects with JavaScript, Node.js, Express, and MongoDB.
+I'm a software developer, currently building projects with JavaScript, Node.js, Express, and MongoDB.
 
-I enjoy creating thoughtful digital experiences with a human-centered mindset inspired by my background in healthcare.
+I enjoy creating thoughtful digital experiences with a human-centered mindset inspired by my strong background in healthcare.
 
 ## Current Focus
 
